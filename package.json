@@ -1,0 +1,18 @@
+{
+  "name": "calculadora-partidas-rankeadas",
+  "version": "1.0.0",
+  "description": "Calculadora de partidas Rankeadas - Desafio de Logica de Programacao DIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node --test"
+  },
+  "keywords": [
+    "dio",
+    "logica-de-programacao",
+    "rankeadas",
+    "javascript"
+  ],
+  "author": "MuriloBGodoy",
+  "license": "MIT"
+}
